@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahulkfernandes
 - 👀 I’m interested in Machine Learning, Data Science, Software Development
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning NLP and Quantitative Finance
 - 💞️ I’m looking to collaborate on anything that would spark my interests
-- 📫 How to reach me ... rahulkfernandes@gmail.com
+- 📫 How to reach me: rahulkfernandes@gmail.com
 
 <!---
 rahulkfernandes/rahulkfernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
