@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulkfernandes
 - 👀 I’m interested in Machine Learning, Data Science, Software Development
-- 🌱 I’m currently learning Docker, Kubernetes and Quantitative Finance
+- 🌱 I’m currently Quantitative Finance
 - 💞️ I’m looking to collaborate on anything that would spark my interests
 - 📫 How to reach me: rahulkfernandes@gmail.com
 
