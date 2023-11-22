@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Machine Learning, Data Science, Mathematics and Software Development**
 
-- 🌱 I’m currently learning **Mathematics for Data Science, HTML and CSS**
+- 🌱 I’m currently learning **Mathematics and statistics for Data Science**
 
 - 📫 How to reach me **rahulkfernandes@gmail.com**
 
