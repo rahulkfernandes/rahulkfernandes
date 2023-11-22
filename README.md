@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Kenneth Fernandes</h1>
-<h3 align="center">Data Science Enthusiast with a Background in E&C Engineering</h3>
 
 - 👀 I’m interested in **Machine Learning, Data Science, Mathematics and Software Development**
 
-- 🌱 I’m currently learning **Mathematics and statistics for Data Science**
+- 🌱 I’m currently learning **Mathematics and Statistics for Data Science**
 
 - 📫 How to reach me **rahulkfernandes@gmail.com**
 
