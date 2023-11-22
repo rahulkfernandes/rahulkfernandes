@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulkfernandes
-- 👀 I’m interested in Machine Learning, Data Science, Software Development
+- 👀 I’m interested in Machine Learning, Data Science, Mathematics and Software Development
 - 💞️ I’m looking to collaborate on anything that would spark my interests
 - 📫 How to reach me: rahulkfernandes@gmail.com
 
