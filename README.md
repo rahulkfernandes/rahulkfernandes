@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kenneth Fernandes</h1>
 
-- 👀 I’m interested in **Machine Learning, Data Science, Mathematics and Software Development**
+- 👀 I’m interested in **Machine Learning, Data Science, Mathematics and Software Engineering**
 
 - 🌱 I’m currently a graduate student at Rochester Institute of Technology in the MS Data Science program
 
