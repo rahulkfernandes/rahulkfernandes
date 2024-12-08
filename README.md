@@ -12,6 +12,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Python, Java, R, C, C++, SQL, MATLAB, HTML, CSS, TensorFlow, Pytorch, Scikit-Learn, SpaCy, Gensim, Pandas, Numpy, Matplotlib, Flask, FastAPI, Django, MongoDB, PostgreSQL, MySQL, Docker, PowerBI, Tableau, MS Excel
+Python, Java, R, C, C++, SQL, MATLAB, HTML, CSS, JavaScript, TensorFlow, Pytorch, Scikit-Learn, SpaCy, Gensim, Pandas, Numpy, Matplotlib, Flask, FastAPI, Django, MongoDB, PostgreSQL, MySQL, Docker, PowerBI, Tableau, MS Excel
 <h3 align="left">Technical Skills:</h3>
 Machine Learning, Deep Learning, Data Mining, Natural Language Processing, Database Design, Computer Vision, Internet of Things, Statistical Analysis, Exploratory Data Analysis, Backend Development, Financial Analysis, Portfolio Analysis
