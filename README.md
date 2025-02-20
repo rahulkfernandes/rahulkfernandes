@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Machine Learning, Data Science, Mathematics and Software Engineering**
 
-- 🌱 I’m currently a graduate student at Rochester Institute of Technology in the MS Data Science program specializing in Statistics/Time Series Forecasting
+- 🌱 I’m currently a graduate student at Rochester Institute of Technology in the MS Data Science program
 
 - 📫 How to reach me **rahulkfernandes@gmail.com**
 
