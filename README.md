@@ -11,8 +11,9 @@
 <a href="https://linkedin.com/in/rahul-kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages
+<h3 align="left">Languages:</h3>
 Python, Java, R, C, C++, SQL, MATLAB, HTML, CSS, JavaScript
+
 <h3 align="left">Tools:</h3>
 Scikit-Learn, TensorFlow, Pytorch, Pandas, Numpy, PySpark, Apache Kafka, Apache Airflow, SpaCy, Gensim, Matplotlib, Flask, FastAPI, Django, MongoDB, PostgreSQL, MySQL, Cloud VM Management (GCP, OCI, AWS), Docker, PowerBI, Tableau
 <h3 align="left">Technical Skills:</h3>
