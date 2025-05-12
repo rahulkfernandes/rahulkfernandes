@@ -15,6 +15,6 @@
 Python, Java, R, C, C++, SQL, MATLAB, HTML, CSS, JavaScript
 
 <h3 align="left">Tools:</h3>
-Scikit-Learn, TensorFlow, Pytorch, Pandas, Numpy, PySpark, Apache Kafka, Apache Airflow, SpaCy, Gensim, Matplotlib, Flask, FastAPI, Django, MongoDB, PostgreSQL, MySQL, Cloud VM Management (GCP, OCI, AWS), Docker, PowerBI, Tableau
+Scikit-Learn, TensorFlow, Pytorch, Pandas, Numpy, PySpark, Apache Kafka, Apache Airflow, SpaCy, Gensim, Matplotlib, Flask, FastAPI, Django, tidyverse, caret, GGplot2, MongoDB, PostgreSQL, MySQL, Cloud VM Management (GCP, OCI, AWS), Docker, PowerBI, Tableau
 <h3 align="left">Technical Skills:</h3>
 Machine Learning, Data Mining, Statistical Learning, Deep Learning, Data Mining, Data Engineering, Natural Language Processing, Database Design & Management, ETL Pipelines, Computer Vision, Statistical Analysis, Exploratory Data Analysis, Backend Development, Financial Analysis, Portfolio Analysis
