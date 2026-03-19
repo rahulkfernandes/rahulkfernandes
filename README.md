@@ -11,10 +11,11 @@
 <a href="https://linkedin.com/in/rahul-kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-Python, Java, R, C, C++, SQL, MATLAB, HTML, CSS, JavaScript
-
-<h3 align="left">Tools:</h3>
-Scikit-Learn, TensorFlow, Pytorch, Pandas, Numpy, PySpark, Apache Kafka, Apache Airflow, SpaCy, Gensim, Matplotlib, Flask, FastAPI, Django, Tidyverse, caret, ggplot2, MongoDB, PostgreSQL, MySQL, Cloud VM Management (GCP, OCI, AWS), Docker, PowerBI, Tableau
-<h3 align="left">Technical Skills:</h3>
-Machine Learning, Data Mining, Statistical Learning, Deep Learning, Data Mining, Data Engineering, Natural Language Processing, Database Design & Management, ETL Pipelines, Computer Vision, Statistical Analysis, Exploratory Data Analysis, Backend Development, Financial Analysis, Portfolio Analysis
+<h3 align="left">Skills and Tools:</h3>
+- Programming Languages: Python, C++, SQL, R, Java
+- Machine Learning & AI: PyTorch, TensorFlow, scikit-learn, NLP, LLMs (Fine-tuning), Hugging Face
+- Data Engineering & Cloud: PySpark, Kafka, Airflow, SQL & NoSQL (PostgreSQL, MySQL, MongoDB), GCP, AWS, OCI
+- Mathematical Modeling: Convex, Quadratic & Differentiable Optimization, Numerical Methods, Statistical Modeling, Time Series Forecasting, Linear Algebra, Probability Theory
+- MLOps & Deployment: FastAPI, Flask, Django, Docker, CI/CD, Git, Linux/Unix
+- HPC / Performance: CUDA, MPI, Distributed Computing
+- Visualization: Tableau, Matplotlib, plotly
