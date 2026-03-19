@@ -12,10 +12,17 @@
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
+
 - Programming Languages: Python, C++, SQL, R, Java
+
 - Machine Learning & AI: PyTorch, TensorFlow, scikit-learn, NLP, LLMs (Fine-tuning), Hugging Face
+
 - Data Engineering & Cloud: PySpark, Kafka, Airflow, SQL & NoSQL (PostgreSQL, MySQL, MongoDB), GCP, AWS, OCI
+
 - Mathematical Modeling: Convex, Quadratic & Differentiable Optimization, Numerical Methods, Statistical Modeling, Time Series Forecasting, Linear Algebra, Probability Theory
+
 - MLOps & Deployment: FastAPI, Flask, Django, Docker, CI/CD, Git, Linux/Unix
+
 - HPC / Performance: CUDA, MPI, Distributed Computing
+
 - Visualization: Tableau, Matplotlib, plotly
